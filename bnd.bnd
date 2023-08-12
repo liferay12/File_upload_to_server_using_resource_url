@@ -1,0 +1,4 @@
+Bundle-Name: upload-file
+Bundle-SymbolicName: com.bses.portal
+Bundle-Version: 1.0.0
+Export-Package: com.bses.portal.constants
